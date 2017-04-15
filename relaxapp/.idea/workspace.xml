@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd34c9a8-0458-48aa-a037-0fa191fe895f" name="Default" comment="" />
+    <list default="true" id="7916e633-7a96-44d9-93f6-b6c48f8cbf98" name="Default" comment="" />
     <ignored path="relaxapp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1424,7 +1424,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:\Android\HWtest\relaxapp" value="4474197400221" />
+        <entry key="D:\Android\HWtest\panda\relaxapp\relaxapp" value="4474197400221" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1704,7 +1704,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$PROJECT_DIR$/../../AppData" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../AppData" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -1896,11 +1896,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cd34c9a8-0458-48aa-a037-0fa191fe895f" name="Default" comment="" />
-      <created>1492264397388</created>
+      <changelist id="7916e633-7a96-44d9-93f6-b6c48f8cbf98" name="Default" comment="" />
+      <created>1492265309627</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1492264397388</updated>
+      <updated>1492265309627</updated>
     </task>
     <servers />
   </component>
